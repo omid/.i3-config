@@ -1,0 +1,5 @@
+#!/bin/sh
+# copied from https://github.com/ivyl/i3-config/
+echo "{\"version\":1}"
+echo "[[]"
+conky -c ~/.i3/conkyrc
