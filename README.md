@@ -1,4 +1,5 @@
 .i3-config
 ==========
 
-My configs and apps collection for i3wm 
+My configs and shell scripts collection for i3wm.
+
